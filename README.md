@@ -1,5 +1,6 @@
 # template-empty
 _description: An empty template for your code sample_
+Please include this sample in the [org readme](https://github.com/nylas-samples/.github/blob/main/profile/README.md)?
 
 <br />
 
