@@ -40,4 +40,4 @@ If you found a bug or want to suggest a new [feature/use case/sample], please fi
 
 ## Learn more
 
-Visit our [Nylas Node.js SDK documentation](https://developer.nylas.com/docs/developer-tools/sdk/node-sdk/) to learn more.
+Visit our [Nylas documentation](https://developer.nylas.com/) to learn more.
