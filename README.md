@@ -1,11 +1,32 @@
-# template-empty
-_description: An empty template for your code sample_
+# code-sample-description
+This sample repo will show you how to easily do X with Nylas.
 
-Please include this sample in the [org readme](https://github.com/nylas-samples/.github/blob/main/profile/README.md)?
+## Setup
 
-<br />
+### System dependencies
 
-## Installation
+- Add System dependencies
+
+### Gather environment variables
+
+You'll need the following values:
+
+```text
+ACCESS_TOKEN = ""
+CLIENT_ID = ""
+CLIENT_SECRET = ""
+```
+
+Add the above values to a `.env` file.
+
+### Install dependencies
+
+[replace with install steps]
+```bash
+$ npm i
+```
+
+## Usage
 
 The recommended way to use this sample is ...
 
@@ -13,33 +34,10 @@ You can also clone the repository ...
 
 You'll find more detailed instructions ...
 
-
-<br />
-
-
-## FAQ
-
-Q: 
-
-A: 
-
-
-<br />
-
 ## Get support
 
 If you found a bug or want to suggest a new [feature/use case/sample], please file an issue.
 
-If you have questions, comments, or need help with code, we're here to help:
-- Email us at support@nylas.com
+## Learn more
 
-<br />
-
-## Contributing
-
-...
-
-<br />
-
-## Authors
-- @
+Visit our [Nylas Node.js SDK documentation](https://developer.nylas.com/docs/developer-tools/sdk/node-sdk/) to learn more.
