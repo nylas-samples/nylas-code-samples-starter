@@ -9,7 +9,7 @@ This sample repo will show you how to easily do X with Nylas.
 
 ### Gather environment variables
 
-You'll need the following values:
+You'll need the following values from the Nylas Dashboard:
 
 ```text
 ACCESS_TOKEN = ""
@@ -18,6 +18,8 @@ CLIENT_SECRET = ""
 ```
 
 Add the above values to a `.env` file.
+
+The `.env` file is added to `.gitignore`. Ensure to store these values securely.
 
 ### Install dependencies
 
